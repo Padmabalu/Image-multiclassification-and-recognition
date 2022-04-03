@@ -1,0 +1,2 @@
+# Image-multiclassification-and-recognition
+The project "Image multi-classification and recognition" tailored by packages of Pytorch, fastai, numpy under supervision learning. Our model used to learn differentiate between these 37 distinct categories. The best accuracy get in 2012 was 59.21%, using a complex model that was specific to pet detection, with separate "Image", "Head", and "Body" models for the pet photos. In order to achieve 86 % accuracy, deeper network resnet-34 and deeper network resnet-50 have been used.
